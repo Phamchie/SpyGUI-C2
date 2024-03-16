@@ -27,4 +27,5 @@ git clone https://github.com/Phamchie/SpyGUI-C2
 cd SpyGUI-C2
 python3 spygui.py
 ```
+<img src="https://raw.githubusercontent.com/Phamchie/SpyGUI-C2/main/image/IMG_20240316_235626_559.jpg">
 - Using SpyGUI-C2 or any similar tool to create and distribute malicious software is illegal and unethical. Engaging in unauthorized access to computer systems, collecting sensitive information without consent, and causing damage to computer systems are all serious offenses that may result in legal consequences, including fines and imprisonment. It's important to always comply with relevant laws and regulations regarding computer security and cyber activities.
